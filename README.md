@@ -2,3 +2,4 @@
 
 File Description
 * hamoye_stageA.ipynb - notebook for Stage A
+* hamoye_stageB.ipynb - notebook for Stage B
